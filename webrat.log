@@ -1,0 +1,6 @@
+# Logfile created on 2016-09-01 12:55:20 +0300 by logger.rb/54362
+D, [2016-09-01T12:55:20.956552 #11930] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2016-09-01T12:57:49.099537 #11936] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2016-09-01T12:58:44.632996 #11943] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2016-09-01T13:00:59.047443 #12395] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2016-09-01T13:02:17.795425 #12403] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
